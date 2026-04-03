@@ -1,6 +1,7 @@
  🎥 FPV Lens Corrector Pro 
  FPV Lens Corrector Pro는 광각 렌즈로 촬영된 FPV 드론 영상의 왜곡(Fish-eye)을 실시간으로 확인하며 교정할 수 있는 파이썬 기반 GUI 툴입니다. 복잡한 명령어나 유료 소프트웨어 없이 슬라이더 조절만으로 깔끔한 직선 영상을 얻을 수 있습니다.
 
+<img width="1202" height="832" alt="Image" src="https://github.com/user-attachments/assets/af22bf75-cd11-4a5e-b1de-c486e2ca7579" />
 
 ✨ 주요 기능
 실시간 미리보기: 왜곡 보정 수치(k1, k2)를 실시간으로 확인하며 조절 가능
